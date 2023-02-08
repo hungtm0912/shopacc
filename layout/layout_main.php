@@ -30,6 +30,9 @@
 				</ul>
 			</div>
 		</div>
+		<div class="slider-bar">
+			<img src="../img/slide1.png" alt="">
+		</div>
 		<div class ="container">
 		</div>
 		<div class="layout">
